@@ -46,7 +46,7 @@ X Education has appointed you to help them select the most promising leads, i.e.
 
 ## Reference Files 
 
-Python Notebook : Lead_Score_Notebook.ipynb
-Summary : Lead_Score_Summary.pdf
-Presentation : Lead_Score_Case_Study_Presentation.pdf
-Subjective Answers : Lead_Score_Subjective_Answers.pdf
+- [Notebook](./Lead_Score_Notebook.ipynb)
+- [Summary](./Lead_Score_Summary.pdf)
+- [Presentation](./Lead_Score_Case_Study_Presentation.pdf)
+- [Subjective Answers](./Lead_Score_Subjective_Answers.pdf)
